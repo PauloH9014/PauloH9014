@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando códigos (e alguns bugs) desde 2024<br>📚 Atualmente aprendendo mais sobre React, Spring Boot e boas práticas de arquitetura<br>🎯 Objetivo: Me tornar especialista em desenvolvimento full stack<br>🎲 Curiosidade: Consigo passar horas depurando um erro... que no fim era um ponto e vírgula faltando 😅</p>
+<p align="left">✨ Criando códigos (e alguns bugs) desde 2023<br>📚 Atualmente aprendendo mais sobre React, Spring Boot e boas práticas de arquitetura<br>🎯 Objetivo: Me tornar especialista em desenvolvimento full stack<br>🎲 Curiosidade: Consigo passar horas depurando um erro... que no fim era um ponto e vírgula faltando 😅</p>
 
 ###
 
